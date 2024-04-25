@@ -1,0 +1,2 @@
+crear el repo local (Directorio / file.py)
+Inicializar el repo local = git
